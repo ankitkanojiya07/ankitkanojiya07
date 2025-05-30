@@ -1,5 +1,5 @@
 <h1 align="center">Ankit Kanojiya</h1>
-<h3 align="center">Software Engineer | Product Manager</h3>
+<h3 align="center">Software Engineer | Full stack Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ankitkanojiya07/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -44,7 +44,7 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🧩 Product Management</h3>
+      <h3 align="center">🧩 Full stack Developer</h3>
       <p align="center">
         Bridging the gap between technical possibilities and business needs. Transforming ideas into valuable products through strategic thinking and user-centered design.
       </p>
